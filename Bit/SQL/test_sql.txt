@@ -1,0 +1,6 @@
+[ 몰라서 검색함 ]
+- 소수값 반올림 : ROUND(값, 소숫점 자리수)
+- 날짜
+    - 연도 변환 : YEAR(날짜)
+    - 포맷 변환 : DATE_FORMAT(PUBLISHED_DATE,'%Y-%m-%d')
+- NULL 값 처리 : IFNULL(COL NAME, 대체 값)
